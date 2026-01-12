@@ -26,3 +26,8 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/samueltuffour/samueltuffour/blob/output/github-contribution-grid-snake.svg)
