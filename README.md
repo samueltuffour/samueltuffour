@@ -8,6 +8,7 @@
 👩🏻‍💻 Aspiring Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying [Computer Science and Engineering] at Bucknell University, Lewisburg PA<br/>
 🎨 Descriptive deatils about , tech, and productivity on [My Website](https://samueltuffour.github.io/st/)<br/>
+💻 [LinkedIn](http://www.linkedin.com/in/samuel-tuffour)<br/>
 💭 Currently learning about data analytics and ML/AI!<br/>
 
 # 💻 Tech Stack
