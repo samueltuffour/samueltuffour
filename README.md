@@ -8,7 +8,6 @@
 👨🏾‍💻 **Machine Learning Engineer Fellow** at [Break Through Tech AI](https://www.breakthroughtech.org/) (Google Challenge Project) & **Data Science Fellow** at Bucknell's Dominguez Center for Data Science<br />
 🎓 B.S. in **Computer Science and Engineering** at Bucknell University (Class of 2028) — seeking **Machine Learning & Software Engineering** opportunities<br />
 🚀 Currently architecting multi-agent LLM pipelines (`FaithfulMed`) and real-time AWS environmental data pipelines<br />
-🎨 Descriptive details about , tech, and productivity on [My Website](https://samueltuffour.github.io/st/)<br/>
 🌐 Portfolio: [samueltuffour.github.io/st](https://samueltuffour.github.io/st/) | 💼 [LinkedIn](https://www.linkedin.com/in/samuel-tuffour) | 📫 [samueltuffour235@gmail.com](mailto:samueltuffour235@gmail.com)
 
 
